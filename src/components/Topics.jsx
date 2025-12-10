@@ -53,7 +53,7 @@ export default function Topics() {
         </div>
 
         {/* Who Will You Meet Section */}
-        <div className="mt-20">
+        <div id="whom" className="mt-20">
           <h2 className="text-3xl font-bold text-gray-900 text-center">
             Who Will You Meet
           </h2>
